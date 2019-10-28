@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [forgottenEarth](https://github.com/forgottenEarth)
+- Place: Portsmouth, UK
+- Bio: mainly c#
+- Github: [forgottenEarth](https://github.com/forgottenEarth)
